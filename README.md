@@ -1,9 +1,9 @@
-### Hi, I am Burak Otman 👋
+<h1 align="center"### Hi, I am Burak Otman 👋></h1>
 
-<!--
+
 **otmanTR/otmanTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JavaScript / React / Ruby on Rails at [Microverse](https://github.com/microverseinc).
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: burak.otman.90@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love reading manga, watching anime and spending time in nature.
--->
+
 ### :globe_with_meridians:	 Connect with me:
 
 <p align="left">
