@@ -2,7 +2,9 @@
 
 
 
-- 🌱 I’m currently learning JavaScript / React / Ruby on Rails at [Microverse](https://github.com/microverseinc).
+
+
+- :man_technologist: I’m currently learning JavaScript / React / Ruby on Rails at [Microverse](https://github.com/microverseinc).
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about new technologies
 - 📫 How to reach me: burak.otman.90@gmail.com
