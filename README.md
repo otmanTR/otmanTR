@@ -1,7 +1,7 @@
-<h1 align="center"### Hi, I am Burak Otman 👋></h1>
+<h1 align="center">### Hi, I am Burak Otman 👋</h1>
 
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning JavaScript / React / Ruby on Rails at [Microverse](https://github.com/microverseinc).
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about new technologies
