@@ -1,10 +1,6 @@
 <h1 align="center"### Hi, I am Burak Otman 👋></h1>
 
 
-**otmanTR/otmanTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JavaScript / React / Ruby on Rails at [Microverse](https://github.com/microverseinc).
 - 👯 I’m looking to collaborate on open source projects
