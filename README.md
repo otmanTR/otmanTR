@@ -1,8 +1,8 @@
-<h1 align="center">### Hi, I am Burak Otman 👋</h1>
+<h1 align="center">Hi, I am Burak Otman 👋</h1>
 
 
 
-- 🌱 I’m currently learning JavaScript / React / Ruby on Rails at [Microverse](https://github.com/microverseinc).
+<p align ="center">- 🌱 I’m currently learning JavaScript / React / Ruby on Rails at [Microverse](https://github.com/microverseinc).
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about new technologies
 - 📫 How to reach me: burak.otman.90@gmail.com
@@ -30,7 +30,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <br />
-
+</p>
 ---
 ### :zap:  GitHub Stats 
 
