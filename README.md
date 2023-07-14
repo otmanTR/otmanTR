@@ -7,7 +7,7 @@
 - :man_technologist: I’m currently learning JavaScript / React / Ruby on Rails at [Microverse](https://github.com/microverseinc).
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about new technologies
-- 📫 How to reach me: burak.otman.90@gmail.com
+- 📫 How to reach me: r.brk.otman@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love reading manga, watching anime and spending time in nature.
 
