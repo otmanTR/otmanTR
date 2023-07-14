@@ -4,12 +4,12 @@
 
 
 
-- :man_technologist: I’m a Full-Stack developer using JavaScript / React / Redux / Ruby on Rails / Postgresql.
+- :man_technologist: I’m a Full-Stack developer using JavaScript / React / Redux / Ruby on Rails / Postgresql
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about new technologies
 - 📫 How to reach me: r.brk.otman@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love reading manga, watching anime and spending time in nature.
+- ⚡ Fun fact: I love reading manga, watching anime and spending time in nature
 
 ### :globe_with_meridians:	 Connect with me:
 
