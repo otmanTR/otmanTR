@@ -4,7 +4,7 @@
 
 
 
-- :man_technologist: I’m currently learning JavaScript / React / Ruby on Rails at [Microverse](https://github.com/microverseinc).
+- :man_technologist: I’m a Full-Stack developer using JavaScript / React / Redux / Ruby on Rails / Postgresql.
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about new technologies
 - 📫 How to reach me: r.brk.otman@gmail.com
