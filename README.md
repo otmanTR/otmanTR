@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I am Burak Otman 👋</h1>
 
 
+
 - :man_technologist: I’m a Full-Stack developer using JavaScript / React / Redux / Ruby on Rails / Postgresql.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about new technologies.
